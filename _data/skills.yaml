@@ -1,27 +1,55 @@
 technical:
- - title: Python
-   level: Advanced
- - title: Java
-   level: Advanced
- - title: C
-   level: Advanced
- - title: HTML/CSS
-   level: Advanced
- - title: JavaScript
-   level: Intermediate
- - title: TypeScript
-   level: Intermediate
- - title: Kotlin
-   level: Advanced
- - title: SQL
-   level: Advanced
- - title: Flask
-   level: Advanced
- - title: Node.js
-   level: Advanced
- - title: Git
-   level: Advanced
- - title: Data Analysis
-   level: Advanced
- - title: Docker
-   level: Advanced
+
+  # --- Programming Languages ---
+  - title: Python
+    level: Advanced
+  - title: Java
+    level: Advanced
+  - title: R
+    level: Advanced
+  - title: SQL
+    level: Advanced
+  - title: HTML/CSS
+    level: Advanced
+  - title: JavaScript
+    level: Intermediate
+  - title: PHP
+    level: Intermediate
+
+  # --- Security & Networking ---
+  - title: OWASP Top 10
+    level: Advanced
+  - title: AES/RSA Encryption
+    level: Intermediate
+  - title: Secure Coding Practices
+    level: Intermediate
+  - title: Threat Modeling
+    level: Intermediate
+  - title: RBAC (Role-Based Access Control)
+    level: Intermediate
+  - title: Wireshark
+    level: Advanced
+  - title: Nmap
+    level: Intermediate
+  - title: Kali Linux
+    level: Advanced
+  - title: Splunk
+    level: Intermediate
+  - title: Nagios
+    level: Beginner
+
+  # --- Tools & Frameworks ---
+  - title: Automation
+    level: Intermediate
+
+  # --- Data & Analysis ---
+  - title: Large-scale Data Analysis
+    level: Advanced
+  - title: Anomaly Detection
+    level: Advanced
+  - title: Threat Detection
+    level: Advanced
+
+  # --- Other Professional Skills ---
+  - title: UAT (User Acceptance Testing)
+    level: Advanced
